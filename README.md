@@ -50,5 +50,7 @@ My goal is to grow as a Junior .NET Developer / Unity Developer and gain my firs
 
 ## 📊 GitHub статистика
 
+<p align = "center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=microsanya&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsanya&layout=compact)
+</p>
