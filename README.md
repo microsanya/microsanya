@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/4sLxqA96fwkAAAAd/game-dev-coding.gif" alt="Game Dev Coding GIF" width="300"/>
+  <div class="tenor-gif-embed" data-postid="23864910" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">Hacker Hacker Man GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <hr style="border: 1px solid #239120;">
