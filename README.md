@@ -35,6 +35,7 @@
 
 <p align="center">
   <img src="https://i.gifer.com/AqCa.gif" alt="Game Dev GIF" width="300"/>
+  <iframe src="https://gifer.com/embed/AqCa" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 </p>
 
 <hr style="border: 1px solid #239120;">
