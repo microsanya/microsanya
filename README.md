@@ -75,9 +75,15 @@ My goal is to grow as a Junior .NET Developer / Unity Developer and gain my firs
 
 <hr style="border: 1px solid #0D1A36;">
 
-## 📊 GitHub статистика
+## 📊 GitHub statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=microsanya&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microsanya&layout=compact&theme=radical" />
+</p>
+
+<hr style="border: 1px solid #0D1A36;">
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
