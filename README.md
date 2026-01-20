@@ -34,8 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/AqCa.gif" alt="Game Dev GIF" width="300"/>
-  <iframe src="https://gifer.com/embed/AqCa" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1icHM0a29yNnNjdW5iMm8xMmtwcjZkeGU1NTkwc3FqOG9jNW05aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="Game Dev GIF" width="300"/>
 </p>
 
 <hr style="border: 1px solid #239120;">
