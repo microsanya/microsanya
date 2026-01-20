@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVzvbgzzi6G88k/giphy.gif" alt="Game Dev GIF" width="300"/>
+</p>
+
 <hr style="border: 1px solid #239120;">
 
 <details open>
