@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVzvbgzzi6G88k/giphy.gif" alt="Game Dev GIF" width="300"/>
+  <img src="https://i.gifer.com/AqCa.gif" alt="Game Dev GIF" width="300"/>
 </p>
 
 <hr style="border: 1px solid #239120;">
