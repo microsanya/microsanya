@@ -33,11 +33,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </p>
 
+<hr style="border: 1px solid #239120;">
+
 <p align="center">
   <img src="./hacker-hacker-man.gif" alt="Game Dev GIF" width="300"/>
 </p>
-
-<hr style="border: 1px solid #239120;">
 
 <details open>
 <summary><strong>🧑‍💻 Обо мне (RU)</strong></summary>
