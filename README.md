@@ -8,6 +8,7 @@
   🎓 Student • Junior .NET & Unity Developer<br>
   💻 Backend & Game Development
 </p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekofoxy) 
 
 <p align="center">
   <strong>Languages:</strong><br>
@@ -34,11 +35,6 @@
 </p>
 
 <hr style="border: 1px solid #239120;">
-
-<p align="center">
-## 📞Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekofoxy) 
-</p>
 
 <p align="center">
   <img src="./hacker-hacker-man.gif" alt="Game Dev GIF" width="300"/>
