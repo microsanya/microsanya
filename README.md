@@ -35,6 +35,10 @@
 
 <hr style="border: 1px solid #239120;">
 
+## 📞Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekofoxy) 
+
+
 <p align="center">
   <img src="./hacker-hacker-man.gif" alt="Game Dev GIF" width="300"/>
 </p>
