@@ -36,7 +36,7 @@
 <hr style="border: 1px solid #239120;">
 
 <p align="center">
-  <strong>Contacts</strong><br>
+  <strong>Contacts:</strong><br>
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekofoxy)" />
 </p>
 
